@@ -20,7 +20,16 @@ c) Jupyter notebook files with explanation on how I reached to the etl.py script
 - etl.ipynb
 - test.ipynb
 
-
+# Installation:
+To run the project in your local environment you'll need:
+- Postgres
+  https://www.postgresql.org › download
+- pgadmin4
+  https://www.pgadmin.org/download/
+- Python 3
+- Jupyter Notebook
+  https://jupyter.org
+  
 
 
 
