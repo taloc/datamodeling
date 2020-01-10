@@ -34,8 +34,8 @@ To run the project in your local environment you'll need:
   https://jupyter.org
   
 Copies of the json files:
-- log_data
-- song_data
+- log_data (zipped)
+- song_data (zipped)
 
 # Credits:
 I was mentored during the creation of this project by Lindsay Moir
